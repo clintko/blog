@@ -1,21 +1,29 @@
 ---
 layout: page
-title: About Emerald
+title: About Me
 ---
-## About
-Emerald is a minimal theme created for Jekyll. The main purpose of Emerald is to provide a clear theme for those who want a blog ready to use, focused on the content and mobile-first.
+## Biography
 
-For further details on Emerald, please visit the [repository on Github](https://github.com/KingFelix/emerald/).
+### About
+I am a student from biological background. I have been learning bioinformatics and data analysis.
 
-![Emerald](img/Emerald01.png "Emerald")
+### Education
+- 2013 - Present
+	- [National Taiwan University(國立台灣大學)](http://www.ntu.edu.tw/)
+	- [MS, Genomic & Systems Biology Degree Program (基因體與系統生物學學程)](http://gsb.lifescience.ntu.edu.tw/)
 
-### Setup
-Emerald may be installed by simply downloading the .zip folder from the [repository on Github](https://github.com/KingFelix/emerald/archive/master.zip).
+- 2009 - 2013
+	- [National Yang-Ming University (國立陽明大學)](http://web.ym.edu.tw/bin/home.php)
+	- [BA, Life Science (生命科學系)](http://dls.ym.edu.tw/)
 
-After extracting the content from the folder into the selected directory, you can type ``jekyll serve`` from the terminal, than open your browser to ``0.0.0.0:4000/emerald/`` and you will find it there.
+- 2005 - 2009
+	- [High School, Saint Francis High School (台北市方濟中學)](http://www.sfh.tp.edu.tw/)
 
-Additionally it is possible to fork the repository and use Github Pages as hosting. By following this way it will be enough to change the ``baseurl`` value into the ``_config.yml`` file, with the directory name of your project (for example /blog) or simply with a "/" (slash) if you want install Emerald in the root. 
+### Competition & Conference
+- GSJ 88th Annual Meeting
+- IGEM
 
-Last but not least: the [Jekyll documentation](http://jekyllrb.com) is the best starting point!
-
-Enjoy!
+### Contact
+- Email: clint00724@gmail.com
+- [Facebook](https://www.facebook.com/clinton.ko.5)
+- [LinkedIn](https://tw.linkedin.com/in/kuei-yueh-clinton-ko-35b06a119)
