@@ -2,7 +2,7 @@
 layout: page
 title: About Me
 ---
-## Biography
+# Biography
 
 ### About
 I am a student from biological background. I have been learning bioinformatics and data analysis.
