@@ -4,7 +4,7 @@ title: About Me
 ---
 # Biography
 
-柯逵悅 (Kuei-Yueh Ko ; Clinton Ko)
+**柯逵悅 (Kuei-Yueh Ko ; Clinton Ko)**
 
 ### About
 I am a student from biological background. I have been learning bioinformatics and data analysis.
@@ -20,6 +20,13 @@ I am a student from biological background. I have been learning bioinformatics a
 
 - 2005 - 2009
 	- [High School, Saint Francis High School (台北市方濟中學)](http://www.sfh.tp.edu.tw/)
+
+### Skills / Qualifications
+- Competent in R: Data standardization/normalization and analysis
+- Familiar with Python: Information string preprocess
+- some knowledge of C and Java:
+
+
 
 ### Competition & Conference
 - GSJ 88th Annual Meeting
