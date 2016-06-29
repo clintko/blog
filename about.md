@@ -22,7 +22,7 @@ I am a student from biological background. I have been learning bioinformatics a
 	- [High School, Saint Francis High School (台北市方濟中學)](http://www.sfh.tp.edu.tw/)
 
 ### Skills / Qualifications
-- Competent in R: Data standardization/normalization and analysis
+- Competent in R: Network Analysis, Gene Set Enrichment Analysis, and Time-Series Data Analysis
 - Familiar with Python: Information string preprocess
 - some knowledge of C and Java:
 
