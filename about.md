@@ -30,7 +30,8 @@ I am a student from biological background. I have been learning bioinformatics a
 
 ### Competition & Conference
 - GSJ 88th Annual Meeting
-- IGEM
+- Poster Presentation ISEGB
+- IGEM 2010 [Team:NYMU-Taipei](https://2010.igem.org/Team:NYMU-Taipei/Team)
 
 ### Contact
 - Email: clint00724@gmail.com
