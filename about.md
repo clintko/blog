@@ -26,7 +26,7 @@ I am a student from biological background. I have been learning bioinformatics a
 - Familiar with Python: Information string preprocess
 - some knowledge of C and Java:
 
-### Competition & Conference
+### Conference and Presentations
 - GSJ 88th Annual Meeting
 - Poster Presentation ISEGB
 - IGEM 2010 [Team:NYMU-Taipei](https://2010.igem.org/Team:NYMU-Taipei/Team)
