@@ -9,7 +9,7 @@ title: About Me
 ![Clintko](https://raw.githubusercontent.com/clintko/blog/gh-pages/img/clintko02.png)
 
 ### About
-I am a student from biological background. I have been learning bioinformatics and data analysis.
+I am a student of biological background. I have been learning bioinformatics and data analysis.
 
 ### Education
 - 2013 - Present
