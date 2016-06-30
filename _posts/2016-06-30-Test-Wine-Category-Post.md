@@ -1,6 +1,6 @@
 ---
 title: Test Wine Category Post
-Category: wine
+category: wine
 ---
 
 Testing Category
