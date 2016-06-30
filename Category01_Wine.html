@@ -4,3 +4,18 @@ layout: default
 
 <h1> My Wine Diary </h1>
 <p> Most posts are about cocktail </p>
+
+<!-- Posts -->
+<ul id="posts">
+
+	{% for post in site.posts %}
+
+	  <li>
+	  	<h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
+	  	<time datetime="{{ post.date | date_to_xmlschema }}" class="by-line">{{ post.date | date_to_string }}</time>
+	  	<p>{{ post.content | strip_html | truncatewords:50 }}</p>
+	  </li>
+
+    {% endfor %}
+
+</ul>
