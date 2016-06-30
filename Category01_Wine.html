@@ -6,9 +6,9 @@ layout: default
 
 <!-- Posts -->
 <ul>
-    {% for page in site.pages %}
+    {% for post in paginator.posts %}
 	<li>
-	    <a href="{{ site.baseurl }}{{ page.url }}" title="{{ page.title }}">{{ page.title }}</a>
+	    <a href="">{{ page.title }}</a>
 	    
         </li>	
     {% endfor %}
