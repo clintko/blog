@@ -6,14 +6,10 @@ layout: default
 
 <!-- Posts -->
 <ul>
-	<!-- {% for post in paginator.posts %} -->
-        {% for post in site.posts %}
-	  <li class="post">
-	  	<h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
-	  	<time datetime="{{ post.date | date_to_xmlschema }}" class="by-line">{{ post.date | date_to_string }}</time>
-	  	<p>{{ post.content | strip_html | truncatewords:50 }}</p>
-	  </li>
-
+    {% for post in site.posts %}
+	<li>
+	    <a href=""></a>
+	    
+        </li>	
     {% endfor %}
-
 </ul>
