@@ -6,7 +6,7 @@ title: About Me
 
 **柯逵悅 (Kuei-Yueh Ko ; Clinton Ko)**
 
-![Clintko](https://raw.githubusercontent.com/clintko/blog/gh-pages/img/clintko03_02.png =250x)
+<img src="https://raw.githubusercontent.com/clintko/blog/gh-pages/img/clintko03_02.png" width="334" height="446" />
 
 ### About
 I am a student of biological background. I have been learning bioinformatics and data analysis.
