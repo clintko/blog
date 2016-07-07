@@ -4,7 +4,7 @@ title: About Me
 ---
 # Biography
 
-**柯逵悅 (Kuei-Yueh Ko ; Clinton Ko)**
+**Kuei-Yueh Ko (Clinton Ko)**
 
 <img src="https://raw.githubusercontent.com/clintko/blog/gh-pages/img/clintko03_02.png" width="334" height="446" />
 
@@ -13,15 +13,15 @@ I am a student of biological background. I have been learning bioinformatics and
 
 ### Education
 - 2013 - Present
-	- [National Taiwan University(國立台灣大學)](http://www.ntu.edu.tw/)
-	- [MS, Genomic & Systems Biology Degree Program (基因體與系統生物學學程)](http://gsb.lifescience.ntu.edu.tw/)
+	- [National Taiwan University](http://www.ntu.edu.tw/)
+	- [MS, Genomic & Systems Biology Degree Program](http://gsb.lifescience.ntu.edu.tw/)
 
 - 2009 - 2013
-	- [National Yang-Ming University (國立陽明大學)](http://web.ym.edu.tw/bin/home.php)
-	- [BA, Life Science (生命科學系)](http://dls.ym.edu.tw/)
+	- [National Yang-Ming University](http://web.ym.edu.tw/bin/home.php)
+	- [BA, Life Science](http://dls.ym.edu.tw/)
 
 - 2005 - 2009
-	- [High School, Saint Francis High School (台北市方濟中學)](http://www.sfh.tp.edu.tw/)
+	- [High School, Saint Francis High School](http://www.sfh.tp.edu.tw/)
 
 ### Skills / Qualifications
 - Competent in R: Network Analysis, Gene Set Enrichment Analysis, and Time-Series Data Analysis
