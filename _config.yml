@@ -1,11 +1,11 @@
 # Site settings
 title: Clintko's Blog
 description: "Biology, Data, Cocktail, and Violin"
-url: "http://www.jacoporabolini.com/emerald"
+url: "https://clintko.github.io/blog/"
 author:
-  name: "Jacopo Rabolini"
-  email: "hello@jacoporabolini.com"
-  url: "http://www.jacoporabolini.com"
+  name: "Clintko"
+  email: "clint00724@gmail.com"
+  url: "https://clintko.github.io/blog//about"
 
 # Build settings
 baseurl: /blog/ # Change this to your relative path (ex: /blog/), or leave just a /
