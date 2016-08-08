@@ -3,7 +3,7 @@ title: Cocktail: Blue Fairy Cooler
 category: mixology
 ---
 
-It is really hot today. When having supper, I maked my own cocktail and called
+It is really hot today. When having supper, I made my own cocktail and called
 it "Blue Fairy Cooler".
 ![Cocktail_BlueFairyCooler01](https://lh3.googleusercontent.com/49WS__Y8sY9V0M_vfUw6MW0ANZu90UA8d2faeylALIll24PuZFy9Qk0pzlIvD96otMPkKUzhHotrvQ=w2880-h1620-rw-no)
 
