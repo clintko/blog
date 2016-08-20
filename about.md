@@ -37,17 +37,17 @@ I am a student of biological background. I have been learning bioinformatics and
 	- Translational and Systems Biology Symposium by Taiwan Proteome Society (TPS), 2014
 - Teaching Assistant
 
-### Conference and Presentations
-- Presentation in 88th Annual Meeting of Genetics Society of Japan (GSJ), 2016
-- Poster presentation in International Symposium Evolutionary Genomics and Bioinformatics (ISEGB), 2015
-- Present at the IGEM competition and our team have won a silver medal, 2010
-	- [Team:NYMU-Taipei](https://2010.igem.org/Team:NYMU-Taipei/Team)
-
 | Course                                   | University                 | Professor      | Year |
 |:---------------------------------------- |:--------------------------:|:--------------:|-----:|
 | Computing Thinking and Basic Programming | National Taiwan University | Arthur Shih    | 2016 |
 | Computing Thinking and Basic Programming | National Taiwan University | Arthur Shih    | 2015 |
 | Bioinformatics                           | National Taiwan University | Hsueh-Fen Juan | 2014 |
+
+### Conference and Presentations
+- Presentation in 88th Annual Meeting of Genetics Society of Japan (GSJ), 2016
+- Poster presentation in International Symposium Evolutionary Genomics and Bioinformatics (ISEGB), 2015
+- Present at the IGEM competition and our team have won a silver medal, 2010
+	- [Team:NYMU-Taipei](https://2010.igem.org/Team:NYMU-Taipei/Team)
 
 ### Online Courses
 
