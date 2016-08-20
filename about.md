@@ -70,6 +70,7 @@ I am a student of biological background. I have been learning bioinformatics and
 |:---------:|:---------:|:---------:|:--------:|------:|
 |    30     |    26     |    22     |    25    |  103  |
 
+
 - GRE
 
 | Verbal    | Quantitative | Writing |
