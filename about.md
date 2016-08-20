@@ -29,6 +29,7 @@ I am a student of biological background. I have been learning bioinformatics and
 	- [High School, Saint Francis High School](http://www.sfh.tp.edu.tw/)
 
 - Online Courses
+
 | Year | Course                                 | University                          | Grade | Time Span |
 | ---- |:--------------------------------------:|:-----------------------------------:|:-----:|-----------:|
 | 2016 | Data Science Toolbox                   | Johns Hopkins University, Coursera  | 96.0% |  4 Weeks |
