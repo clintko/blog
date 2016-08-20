@@ -64,13 +64,17 @@ I am a student of biological background. I have been learning bioinformatics and
 
 ### Test Scores
 
-| TOEFL | Reading   | Listening | Speaking  | Writing  | Total |
-|-------|:---------:|:---------:|:---------:|:--------:|------:|
-|       |    30     |    26     |    22     |    25    |  103  |
+- TOEFL
 
-|  GRE  | Verbal    | Quantitative | Writing |
-|-------|:---------:|:------------:|:-------:|
-|       |   144     |    167       |   3     |
+| Reading   | Listening | Speaking  | Writing  | Total |
+|:---------:|:---------:|:---------:|:--------:|------:|
+|    30     |    26     |    22     |    25    |  103  |
+
+- GRE
+
+| Verbal    | Quantitative | Writing |
+|:---------:|:------------:|:-------:|
+|   144     |    167       |   3     |
 
 
 ### Hobbies
