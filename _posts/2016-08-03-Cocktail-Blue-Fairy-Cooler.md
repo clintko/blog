@@ -1,5 +1,5 @@
 ---
-title: Cocktail_Blue Fairy Cooler
+title: [Cocktail] Blue Fairy Cooler
 category: mixology
 ---
 
