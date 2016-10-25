@@ -34,5 +34,8 @@ custom_nav_footer: true
 reverse: false
 
 # generate sitemap.xml
+#gems:
+#  - jekyll-sitemap
+  
 gems:
-  - jekyll-sitemap
+  - jekyll-paginate
